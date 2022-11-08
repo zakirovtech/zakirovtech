@@ -3,14 +3,17 @@
 <h3 align="left">You can find me in other social media:</h3>
 <p><a href="https://linkedin.com/iamkhaidarzakirov">LinkedIn </a><span>|</span><a href="https://stepik.org/users/505469202"> Stepic.org </a><span>|</span><a href="https://twitter.com/khaidarzakirov"> Twitter</a></p>
 
-
-- 🟡 I’ve started learning Python3 as main language since June 2022
-- 🌱 I’ve finished Python3 basics education and continue to learn other libraries 
-- 👯 I’m currently learning Python3
-- 🤔 I’m going to learn SQL
-- 💬 Programming expirience:
-    - web-scraping: BeautifulSoup, requests, selenium
-- 😄 Used soft: 
+- 🟠 I learn Python3, HTML
+- Python3:
+    - 🟡 I
+    - 🟡 I’ve started learning Python3 as main language since June 2022
+    - 🟡 I’ve finished Python3 basics education and continue to learn other libraries 
+- 🟠 I’m going to learn SQL
+- 🟠 Programming expirience:
+    - 🟡 web-scraping: BeautifulSoup, requests, selenium
+- 🟠 Used soft: 
     - PyCharm CE 
     - MVS Code
+    
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkhaidarzakirov&layout=compact)](https://github.com/iamkhaidarzakirov/github-readme-stats)
 
