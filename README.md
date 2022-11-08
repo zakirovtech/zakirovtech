@@ -14,7 +14,9 @@
 - 🔵 Used soft: 
     - 🟡 PyCharm CE 
     - 🟡 MVS Code
+- 🔵
     <hr>
     
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkhaidarzakirov&layout=compact)](https://github.com/iamkhaidarzakirov/github-readme-stats)
-
+<hr>
+<div align="center"><img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"></div>
