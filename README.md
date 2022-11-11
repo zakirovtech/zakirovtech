@@ -5,18 +5,18 @@
 
 <hr>
 
-- 🔵 I learn Python3, HTML
-- 🔵 Python3:
-    - 🟡 I’ve started learning Python3 as main language since June 2022
-    - 🟡 I’ve finished Python3 basics education and continue to learn other libraries and skills
-- 🔵 I’m going to learn SQL
-- 🔵 Programming expirience:
-    - 🟡 web-scraping: BeautifulSoup, requests, selenium
-- 🔵 Used soft: 
-    - 🟡 PyCharm CE 
-    - 🟡 MVS Code
-- 🔵 I am seeking for a job as intern python developer or at freelance
-    - 🟡 Contact e-mail: zakirovdiy@gmail.com
+- 🐍 I learn Python3, HTML
+- 🐍 Python3:
+    - ✔ I’ve started learning Python3 as main language since June 2022
+    - ✔ I’ve finished Python3 basics education and continue to learn other libraries and skills
+- 💾 I’m going to learn SQL
+- 💻 Programming expirience:
+    - ✔ web-scraping: BeautifulSoup, requests, selenium
+- 🛠 Used soft: 
+    - ✔ PyCharm CE 
+    - ✔ MVS Code
+- 👩‍💻 I am currently seeking for a job as intern python developer or at freelance
+    - ✔ Contact e-mail: zakirovdiy@gmail.com
  
 <hr>
 <div align="center"><img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"></div>
