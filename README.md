@@ -9,7 +9,6 @@
 - — I’m going to learn SQL
 - — Programming expirience:
 - - web-scraping: BeautifulSoup, requests, selenium
-- - web-scraping portfolio: https://github.com/iamkhaidarzakirov/web-scraping-portfolio
 - — Used soft:
 - - PyCharm CE
 - - MVS Code
