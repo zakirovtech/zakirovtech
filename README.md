@@ -5,18 +5,18 @@
 
 <hr>
 
-- — I learn Python3.
-- — I’m going to learn SQL
-- — Programming expirience:
+- I learn Python3.
+- I’m going to learn SQL
+- Programming expirience:
 - - web-scraping: BeautifulSoup, requests, selenium
-- — Used soft:
+- Used soft:
 - - PyCharm CE
 - - MVS Code
-- — Python3:
+- Python3:
 - - I’ve started learning Python3 as main language since June 2022
 - - I’ve finished Python3 basics education and continue to learn other frameworks and skills
 - - I am currently seeking for a job as intern python developer or at freelance
-- — Contact e-mail: zakirovdiy@gmail.com
+- Contact e-mail: zakirovdiy@gmail.com
  
 <hr>
 
