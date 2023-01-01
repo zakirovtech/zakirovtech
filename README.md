@@ -13,7 +13,6 @@
 - - PyCharm CE
 - - MVS Code
 - Python3:
-- - I’ve finished Python3 basics education and continue to learn other frameworks and skills
 - - I am currently seeking for a job as intern or at freelance
 - Contact e-mail: zakirovdiy@gmail.com
  
