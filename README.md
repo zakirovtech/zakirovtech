@@ -7,8 +7,9 @@
 
 - I learn Python3.
 - Programming expirience:
-- - Web scraping: BeautifulSoup, requests, selenium 
+- - Web scraping: BeautifulSoup, requests, selenium webdriver, undetected_chromedriver, aiohttp
 - - Parsing: pandas, openpyxl
+- - Telegram:
 - Used soft:
 - - PyCharm CE
 - - MVS Code
