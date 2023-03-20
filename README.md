@@ -5,7 +5,7 @@
 
 <hr>
 
-- I learn and practice Python3.
+- I learn and practice Python3, Git.
 - Programming expirience:
 - - Web scraping: BeautifulSoup, requests, selenium webdriver, undetected_chromedriver, aiohttp
 - - Parsing: pandas, openpyxl
