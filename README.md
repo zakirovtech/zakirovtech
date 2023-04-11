@@ -5,7 +5,7 @@
 
 <hr>
 
-- I learn and practice Python3, Git.
+- I learn and practice Python3.x, Django 3.2.18, Git.
 - Programming expirience:
 - - Web scraping: BeautifulSoup, requests, selenium webdriver, undetected_chromedriver, aiohttp
 - - Parsing: pandas, openpyxl
