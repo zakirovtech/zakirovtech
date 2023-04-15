@@ -12,8 +12,7 @@
 - Used soft:
 - - PyCharm CE
 - - MVS Code
-- Python3:
-- - I am currently seeking for a job as intern or at freelance
+- I am currently seeking for any job as intern; or junior (when I finish backend learning); or web scraping orders at freelance;
 - Contact e-mail: zakirovdiy@gmail.com
  
 <hr>
