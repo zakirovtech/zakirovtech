@@ -1,5 +1,9 @@
 <h1 align="lesf">Hi there, I'm Khaidar</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<p><h3>Social media:</h3></p>
+<a href="https://stepik.org/users/505469202"><img src="https://static.tildacdn.com/tild3237-6335-4932-a538-383365376633/stepik_logotype_blac.svg" style="width:75px;height:75px;"></a>
+<a href="https://www.linkedin.com/in/iamkhaidarzakirov/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" style="width:75px;height:75;"></a>
+<a href="https://kwork.ru/user/zakirov_diy"><img src="https://cdn-edge.kwork.ru/images/large_logo.jpg" style="width:75px;height:75;"></a>
 
 <hr>
 
@@ -16,4 +20,4 @@
 
 [![iamkhaidarzakirov's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=iamkhaidarzakirov&theme=Light)](https://leetcode.com/iamkhaidarzakirov/)
 [![iamkhaidarzakirov's CodeWars Stats](https://www.codewars.com/users/iamkhaidarzakirov/badges/small)](https://www.codewars.com/users/iamkhaidarzakirov)
-<p><a href="https://stepik.org/users/505469202"><img src="https://stepik.org/static/frontend/topbar_logo.svg" style="width:350px;height:350px;"></a></p>
+
