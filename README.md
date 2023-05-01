@@ -17,4 +17,4 @@
  
 <hr>
 
-[![iamkhaidarzakirov's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=iamkhaidarzakirov&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
+![iamkhaidarzakirov's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=iamkhaidarzakirov&theme=Light)
