@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="left">You can find me in other social media:</h3>
 
-[![iamkhaidarzakirov's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=iamkhaidarzakirov&theme=Light)]
+![iamkhaidarzakirov's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=iamkhaidarzakirov&theme=Light)
 
 <hr>
 
