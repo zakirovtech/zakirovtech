@@ -17,7 +17,7 @@ Used soft:
 - MVS Code
 <hr>
 
-- Other links:
+Other links:
 
 [![iamkhaidarzakirov's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=iamkhaidarzakirov&theme=Light)](https://leetcode.com/iamkhaidarzakirov/)
 [![iamkhaidarzakirov's CodeWars Stats](https://www.codewars.com/users/iamkhaidarzakirov/badges/small)](https://www.codewars.com/users/iamkhaidarzakirov)
