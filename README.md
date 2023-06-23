@@ -7,12 +7,11 @@
 
 <hr>
 
-I learn and practice **Python3.x, Django 3.2.18, GIT**.
+I learn and practice **Python3.x, Django 3.2.18, DRF, SQL, GIT**.
 
-Programming expirience:
-- Web scraping: BeautifulSoup, requests, selenium webdriver, undetected_chromedriver, aiohttp
-- Parsing: pandas, openpyxl
-- Back-end: **Django**.
+Programming commercial expirience:
+- **[Freelance]** Web scraping: BeautifulSoup, requests, selenium webdriver, undetected_chromedriver, aiohttp
+- **[Freelance]** Parsing: pandas, openpyxl, csv, PyPDF2
 
 Used soft:
 - PyCharm CE
