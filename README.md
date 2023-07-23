@@ -30,7 +30,7 @@ Learn and practice:
 Used soft:
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Dark.svg" alt="MVS Code" style="height: 50px; width:50px;"/>
-  <img src="https://raw.githubusercontent.com/retomerz/classic-icon-idea/master/resources/ch/retomerz/pycharm.png" alt="PyCharm" style="height: 50px; width:50px;"/>
+  <img src="https://raw.githubusercontent.com/iamkhaidarzakirov/profile_images/main/icons/pc.jpeg?token=GHSAT0AAAAAACE4KIK3SOH6UGA3SFRQT2I6ZF5KFSA" alt="PyCharm" style="height: 50px; width:50px;"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NeoVim-Dark.svg" alt="Nvim" style="height: 50px; width:50px;"/>
 </p>
 
