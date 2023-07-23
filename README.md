@@ -16,25 +16,21 @@
 
 Learn and practice:
 <p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg" alt="Python3.x" style="height: 50px; width:50px;"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Django.svg" alt="Django" style="height: 50px; width:50px;"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" alt="Git" style="height: 50px; width:50px;"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg" alt="MySQL" style="height: 50px; width:50px;"/>
-  <img src="" alt="" style="height: 50px; width:50px;"/>
-  <img src="" alt="" style="height: 50px; width:50px;"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Linux-Dark.svg" alt="LinuxTerminal" style="height: 50px; width:50px;"/>
-  
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg" alt="Python3.x" title="Python3.x" style="height: 50px; width:50px;"/>
+  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JS Basics" title="Basics" style="height: 50px; width:50px;"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Django.svg" alt="Django" title="Django | DRF" style="height: 50px; width:50px;"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" alt="Git" title="Git | GitHub" style="height: 50px; width:50px;"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"style="height: 50px; width:50px;"/>
+  <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" style="height: 50px; width:50px;"/>
+  <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="WindowsCMD" title="WindowsCmd" style="height: 50px; width:50px;"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Linux-Dark.svg" alt="LinuxTerminal" title="LinuxTerminal" style="height: 50px; width:50px;"/>
   
 </p>
-
-Programming commercial expirience:
-- **[Freelance]** Web scraping: BeautifulSoup, requests, selenium webdriver, undetected_chromedriver, aiohttp
-- **[Freelance]** Parsing: pandas, openpyxl, csv, PyPDF2
 
 Used soft:
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Dark.svg" alt="MVS Code" style="height: 50px; width:50px;"/>
-  <img src="" alt="PyCharm" style="height: 50px; width:50px;"/>
+  <img src="https://raw.githubusercontent.com/retomerz/classic-icon-idea/master/resources/ch/retomerz/pycharm.png" alt="PyCharm" style="height: 50px; width:50px;"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NeoVim-Dark.svg" alt="Nvim" style="height: 50px; width:50px;"/>
 </p>
 
