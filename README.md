@@ -20,8 +20,8 @@
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JS Basics" title="Basics" style="height: 50px; width:50px;"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Django.svg" alt="Django" title="Django | DRF" style="height: 50px; width:50px;"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" alt="Git" title="Git | GitHub" style="height: 50px; width:50px;"/>
-  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"style="height: 50px; width:50px;"/>
-  <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" style="height: 50px; width:50px;"/>
+  <img src="https://github.com/iamkhaidarzakirov/iamkhaidarzakirov/blob/main/my_profile_images_here/icons/ms.png" alt="MySQL" title="MySQL"style="height: 50px; width:50px;"/>
+  <img src="https://github.com/iamkhaidarzakirov/iamkhaidarzakirov/blob/main/my_profile_images_here/icons/ps.png" alt="PostgreSQL" title="PostgreSQL" style="height: 50px; width:50px;"/>
   <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="WindowsCMD" title="WindowsCmd" style="height: 50px; width:50px;"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Linux-Dark.svg" alt="LinuxTerminal" title="LinuxTerminal" style="height: 50px; width:50px;"/>
   
