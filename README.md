@@ -14,7 +14,7 @@
   </body>
 </html>
 
-Learn and practice:
+<p><h3>Learn and practice:</h3></p>
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg" alt="Python3.x" title="Python3.x" style="height: 50px; width:50px;"/>
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JS Basics" title="Basics" style="height: 50px; width:50px;"/>
@@ -27,7 +27,7 @@ Learn and practice:
   
 </p>
 
-Used soft:
+<p><h3>Used soft:</h3></p>
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Dark.svg" alt="MVS Code" style="height: 50px; width:50px;"/>
   <img src="https://github.com/iamkhaidarzakirov/iamkhaidarzakirov/blob/main/my_profile_images_here/icons/pc.jpeg" alt="PyCharm" style="height: 50px; width:50px;"/>
@@ -36,9 +36,9 @@ Used soft:
 
 <hr>
 
-Other links:
+<p><h3>Other links:</h3></p>
 
 [![iamkhaidarzakirov's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=iamkhaidarzakirov&theme=Light)](https://leetcode.com/iamkhaidarzakirov/)
 [![iamkhaidarzakirov's CodeWars Stats](https://www.codewars.com/users/iamkhaidarzakirov/badges/small)](https://www.codewars.com/users/iamkhaidarzakirov)
 
-
+<p><h3>My current CV here: <a href="https://github.com/iamkhaidarzakirov/iamkhaidarzakirov/blob/main/cv_python_developer_en.pdf">tap link</a></h3></p>
