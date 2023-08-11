@@ -26,8 +26,9 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" alt="Git" title="Git | GitHub" style="height: 50px; width:50px;"/>
 <img src="https://github.com/iamkhaidarzakirov/iamkhaidarzakirov/blob/main/my_profile_images_here/icons/ms.png" alt="MySQL" title="MySQL"style="height: 50px; width:50px;"/>
 <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" title="PostgreSQL" style="height: 50px; width:50px;"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Linux-Dark.svg" alt="LinuxTerminal" title="LinuxTerminal" style="height: 50px; width:50px;"/>
-
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Linux-Dark.svg" alt="LinuxTerminal" title="LinuxTerminal" style="height: 50px; 
+  width:50px;"/>
+<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" title="Docker" style="height: 50px; width:50px;"/>
 </p>
 
 <hr>
