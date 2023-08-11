@@ -33,6 +33,6 @@
 
 <hr>
 
-<p>My current CV here: <a href="https://github.com/iamkhaidarzakirov/iamkhaidarzakirov/blob/main/cv_python_developer_en.pdf">tap link</a></p>
+<p>My current CV is here: <a href="https://github.com/iamkhaidarzakirov/iamkhaidarzakirov/blob/main/cv_python_developer_en.pdf">tap link</a></p>
 </body>
 </html>
