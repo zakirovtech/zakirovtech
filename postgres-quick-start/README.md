@@ -24,7 +24,7 @@
 
 ```$ sudo service postgresql status```
 
-```$ sudo service postgresql enable``` 
+```$ sudo systemctl enable postgresql``` (startup) 
 
 ```$ sudo service postgresql start```
 
