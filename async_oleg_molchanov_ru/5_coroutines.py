@@ -50,4 +50,4 @@ if __name__ == '__main__':
     main.send(5)
     result = main.throw(StopIteration)
     print(result)
-    main.send(2)
+

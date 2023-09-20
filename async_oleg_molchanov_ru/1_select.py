@@ -4,6 +4,17 @@ from select import select
 # select системная функция для мониторинга состояний переданных системных-файловых объектов | есть в любой системе
 # файловый объект, это объект с методом fileno(), который возвращает файловый дескриптор --- номер файла (целое число)
 
+# Коллекция с файлами, состояния которых нужно мониторить. Будет передан в select()...
+to_monitor = []
+
+# Серверный сокет
+server_socket = socket.socket(family=socket.AF_INET, type=socket.SOCK_STREAM)
+server_socket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+server_socket.bind(('localhost', 5000))
+server_socket.listen()
+
+to_monitor.append(server_socket)
+
 
 def accept_connection(ss: socket):
     # accept() блокирующая операция...
@@ -40,13 +51,4 @@ def event_loop():
 
 
 if __name__ == '__main__':
-    # Коллекция с файлами, состояния которых нужно мониторить. Будет передан в select()...
-    to_monitor = []
-    # Серверный сокет
-    server_socket = socket.socket(family=socket.AF_INET, type=socket.SOCK_STREAM)
-    server_socket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
-    server_socket.bind(('localhost', 5000))
-    server_socket.listen()
-
-    to_monitor.append(server_socket)
     event_loop()

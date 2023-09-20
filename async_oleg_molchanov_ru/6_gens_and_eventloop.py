@@ -19,8 +19,8 @@ def counter():
 def print_message():
     count = 0
     while True:
-        if count % 3 == 0:
-            print('Some message')
+
+        print('Some message')
 
         count += 1
         yield
@@ -31,7 +31,7 @@ def main():
         task = tasks.popleft()
         next(task)
         tasks.append(task)
-        time.sleep(0.1)
+
 
 
 if __name__ == '__main__':
