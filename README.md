@@ -2,7 +2,7 @@
 
 ```iamXaidar:~$ echo I am beginner backend developer and looking for my first job in software development. I learn and practice these tech:```
 
-```iamXaidar:~$ ls -a```
+```iamXaidar:~$ ls -a -1```
 ```
 * $ Python 3.x. ~
 * $ Django ~
