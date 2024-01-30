@@ -15,4 +15,4 @@
 <hr>
 
 ### Current CV:
-* click: [click here](https://github.com/iamXaidar/zakirovio/blob/main/cv-python-developer-en.pdf)
+* [click here](https://github.com/iamXaidar/zakirovio/blob/main/cv-python-developer-en.pdf)
