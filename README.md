@@ -15,5 +15,4 @@
 <hr>
 
 ### Current CV:
-* Download: ```guest:~$ curl -o cv.pdf https://raw.githubusercontent.com/iamXaidar/iamXaidar/2c1094cff79d67dcaf2cc7e2909d42406df275e9/cv-python-developer-en.pdf```
-* Just read: [click here](https://github.com/iamXaidar/iamXaidar/blob/main/cv-python-developer-en.pdf)
+* click: [click here](https://github.com/iamXaidar/zakirovio/blob/main/cv-python-developer-en.pdf)
