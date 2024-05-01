@@ -1,18 +1,7 @@
 ## Hi there! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/>
 
-```zakirovio:~$ echo I am beginner backend developer and looking for my first job in software development. I learn and practice these tech:```
+```zakirovio:~$ echo I have a strong affinity for Python and a keen interest in computer networking and system administration```
 
-```zakirovio:~$ ls -a -1```
-```
-* $ Python 3.x. ~
-* $ Django ~
-* $ Django REST framework ~
-* $ SQL ~
-* $ Git ~
-* $ Docker ~
-* $ Linux / Ubuntu ~
-```
-<hr>
+```zakirovio:~$ echo Currently, I'm actively engaged with Ruby, Capybara, Faraday, and Rails in a web reverse engineering project```
 
-### Current CV:
-* [click here](https://github.com/zakirovio/zakirovio/blob/main/cv-python-developer-en.pdf)
+```zakirovio:~$ echo Although I'm eager to delve into C programming, I find myself repeatedly postponing it for a later time...```
